@@ -2,7 +2,7 @@ package com.marrisa.designpattern.adapter_pattern;
 
 /**
  * @Auther: Darryl
- * @Description: TODO:描述
+ * @Description: 适配器模式DEMO入口
  * @Date: created in 2020/3/1 19:52
  */
 
